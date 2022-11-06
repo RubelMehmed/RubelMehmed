@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RubelMehmed ...
 -  I am intrested in Javascript
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on full stack web developer.
+- 💞️ I’m looking to collaborate on full stack  Javascript Environment.
 - 📫 rubel.mehmut@gmail.com
 
 
