@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @RubelMehmed ...
--  I am intrested in Javascript
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on full stack  Javascript Environment.
-- 📫 rubel.mehmut@gmail.com
+-  I'm a front-end engineer
+- 🌱 I’m currently learning Python_Django
+- 💞️ I’m looking to collaborate on full stack Javascript Environment.
+-  I'm interested in Web Assembly and DevOps
+- 📫 rubel.49@geography-juniv.edu
+
 
 
 
