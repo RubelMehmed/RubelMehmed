@@ -19,17 +19,15 @@ A high schooler from Bangladesh with a passion for full stack development.I love
 -----
 
 <a href="https://github.com/RubelMehmed">
-  <img src="https://komarev.com/ghpvc/?username=RubelMehmed&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=rubelmehmed&color=blueviolet" />
 </a>
 
 <a href="https://github.com/RubelMehmed">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&theme=radical&hide=glsl,python" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&theme=radical" />
 </a>
 
-***
-
 <a href="https://github.com/RubelMehmed">
-  <img src="https://github-readme-stats.vercel.app/api?username=RubelMehmed&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RubelMehmed&show_icons=true&hide_border=true&theme=radical" />
 </a>
 
 ---
@@ -46,7 +44,7 @@ A high schooler from Bangladesh with a passion for full stack development.I love
 
 Have a Great Day!
 
-⭐️ From [RubelMehmed](https://github.com/RubelMehmed))](https://github.com/RubelMehmed)
+⭐️ From [[RubelMehmed](https://github.com/RubelMehmed)](https://github.com/RubelMehmed)
 <!---
 RubelMehmed/RubelMehmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
