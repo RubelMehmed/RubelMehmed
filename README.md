@@ -21,7 +21,7 @@ A high schooler from Bangladesh with a passion for full stack development.I love
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&theme=radical" />
 </a>
 <a href="https://github.com/RubelMehmed">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&color=blueviolet" />
 </a>
 <a href="https://github.com/RubelMehmed">
   <img src="https://github-readme-stats.vercel.app/api?username=RubelMehmed&show_icons=true&theme=radical" />
@@ -36,6 +36,7 @@ A high schooler from Bangladesh with a passion for full stack development.I love
 <a href="https://github.com/RubelMehmed">
   <img src="https://komarev.com/ghpvc/?username=rubelmehmed&color=blueviolet" />
 </a>
+---
 Have a Great Day!
 
 ⭐️ From [RubelMehmed](https://github.com/RubelMehmed)
