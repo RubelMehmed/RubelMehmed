@@ -7,7 +7,7 @@
 - ✨ https://rubelmehmed.netlify.app/
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubelmehmed&show_icons=true&theme=radical)
 
 <!---
 RubelMehmed/RubelMehmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
