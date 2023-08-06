@@ -9,7 +9,7 @@ A graduate student from Bangladesh with a passion for full stack development.I l
 -----
 
 <a href="https://github.com/RubelMehmed">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/RubelMehmed">
