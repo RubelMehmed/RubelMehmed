@@ -23,7 +23,9 @@ A graduate student from Bangladesh with a passion for full stack development.I l
 <a href="https://github.com/RubelMehmed">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&layout=pie&show_icons=true&theme=radical" />
 </a>
-
+<a href="https://github.com/RubelMehmed/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=RubelMehmedlayout=compact&show_icons=true&theme=radical" />
+</a>
 
 <a href="https://github.com/RubelMehmed">
   <img src="https://komarev.com/ghpvc/?username=RubelMehmed&color=blueviolet" />
@@ -31,12 +33,10 @@ A graduate student from Bangladesh with a passion for full stack development.I l
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&layout=pie&theme=radical)](https://github.com/RubelMehmed/github-readme-stats)
-
-
-
 ----
 ----
+
+
 <h2 align="center">
   Here are some technologies I use at work:
 </h2>
