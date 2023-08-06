@@ -6,7 +6,7 @@
 - 📫 rubel.mehmut@gmail.com
 - ✨ https://rubelmehmed.netlify.app/
 
-![Profile Watch](https://komarev.com/ghpvc/?rubelmehmed)
+![](https://komarev.com/ghpvc/?username=rubelmehmed&color=blueviolet)
 
 ![RubelMehmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubelmehmed&show_icons=true&theme=radical)
 
