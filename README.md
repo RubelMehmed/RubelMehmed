@@ -18,19 +18,13 @@ A high schooler from Bangladesh with a passion for full stack development.I love
 
 -----
 
-Skills:
-
-- Web Develpment with React.js
-- Machine learning with Sckit-learn
-- API with FastAPI
-- Discord bots with dpy
-- Dockerizing Apps
-
------
 <a href="https://github.com/RubelMehmed">
   <img src="https://komarev.com/ghpvc/?username=RubelMehmed&style=flat-square" />
 </a>
 
+<a href="https://github.com/RubelMehmed">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&theme=radical&hide=glsl,python" />
+</a>
 
 ***
 
