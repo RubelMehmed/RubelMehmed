@@ -6,8 +6,9 @@
 - 📫 rubel.mehmut@gmail.com
 - ✨ https://rubelmehmed.netlify.app/
 
+![Profile Watch](https://komarev.com/ghpvc/?rubelmehmed)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubelmehmed&show_icons=true&theme=radical)
+![RubelMehmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubelmehmed&show_icons=true&theme=radical)
 
 <!---
 RubelMehmed/RubelMehmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
