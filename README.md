@@ -28,10 +28,12 @@ A graduate student from Bangladesh with a passion for full stack development.I l
 <a href="https://github.com/RubelMehmed">
   <img src="https://komarev.com/ghpvc/?username=rubelmehmed&color=blueviolet" />
 </a>
----
+
+-----
+
 Have a Great Day!
 
-⭐️ From [RubelMehmed](https://github.com/RubelMehmed)
+⭐️ From [RubelMehmed](https://rubelmehmed.netlify.app/)
 <!---
 RubelMehmed/RubelMehmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
