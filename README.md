@@ -13,7 +13,7 @@
 
 ----
 
-A high schooler from Bangladesh with a passion for full stack development.I love python and Js seems to be my new love. 
+A graduate student from Bangladesh with a passion for full stack development.I love Javascript and Python seems to be my new love. 
 
 -----
 
@@ -27,9 +27,6 @@ A high schooler from Bangladesh with a passion for full stack development.I love
 
 
 ---
-
-
-![RubelMehmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubelmehmed&show_icons=true&theme=radical)
 
 <a href="https://github.com/RubelMehmed">
   <img src="https://komarev.com/ghpvc/?username=rubelmehmed&color=blueviolet" />
