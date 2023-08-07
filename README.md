@@ -4,8 +4,7 @@
 
 ----
 
-A graduate student from Bangladesh with a passion for full stack development.I love Javascript and Python seems to be my new love. 
-
+⌨️ Frontend Dev 👨‍💻 | 👋 Bangladeshi 🇧🇩 | 🎓 JU Student 📚 | 💻 Code & Cricket 🏏 | 🌟 Let's Code and Play! 🌙
 -----
 
 <a href="https://github.com/RubelMehmed">
@@ -34,6 +33,9 @@ A graduate student from Bangladesh with a passion for full stack development.I l
 
 
 ----
+
+👨‍💻 Frontend Dev | 🚀 React, Next.js, Vite | UI Lover 🎨 | 🌈 Tailwind, Sass, Material UI | 🌐 Cloud & DevOps Explorer | ⚙️ Web Assembly Learner | Design Patterns Admirer 🛠️ | 🌟 Let's craft web magic together! 🎯
+
 ----
 
 
