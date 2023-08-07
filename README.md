@@ -36,9 +36,9 @@
 
 <div align="center">
   <h2 style="font-family: 'Arial', sans-serif; color: #6C63FF;">👨‍💻 Frontend Dev</h2>
-  <p style="font-family: 'Verdana', sans-serif; color: #4CAF50;">🚀 React, Next.js, Vite | UI Lover 🎨 |</p>
-  <p style="font-family: 'Tahoma', sans-serif; color: #FF5733;">Tailwind, Sass, Material UI | Cloud & DevOps Explorer 🌐 |</p>
-  <p style="font-family: 'Courier New', monospace; color: #9B59B6;">⚙️ Web Assembly Learner | Design Patterns Admirer 🛠️ |</p>
+  <p style="font-family: 'Verdana', sans-serif; color: #4CAF50;">🚀 React, Next.js, Vite | UI Lover 🎨</p>
+  <p style="font-family: 'Tahoma', sans-serif; color: #FF5733;">Tailwind, Sass, Material UI | Cloud & DevOps Explorer 🌐</p>
+  <p style="font-family: 'Courier New', monospace; color: #9B59B6;">⚙️ Web Assembly Learner | Design Patterns Admirer 🛠️</p>
   <p style="font-family: 'Georgia', serif; color: #F39C12;">Let's craft web magic together! 🌟</p>
 </div>
 
