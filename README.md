@@ -15,27 +15,25 @@ console.log("Hi There! ") > README.md
 ----
 
 <a href="https://github.com/RubelMehmed">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&layout=pie&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/RubelMehmed/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=RubelMehmed&show_icons=true&theme=radical" />
 </a>
-
+<a href="https://github.com/RubelMehmed">
+  <img src="https://komarev.com/ghpvc/?username=RubelMehmed&color=blueviolet" />
+</a>
 
 ----
 
 
-<a href="https://github.com/RubelMehmed">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&layout=pie&show_icons=true&theme=radical" />
-</a>
+
 <a href="https://github.com/RubelMehmed">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&layout=compact&show_icons=true&theme=radical&hide=python" />
 </a>
 
-<a href="https://github.com/RubelMehmed">
-  <img src="https://komarev.com/ghpvc/?username=RubelMehmed&color=blueviolet" />
-</a>
+
 
 
 
