@@ -1,6 +1,10 @@
 
-### Hi There! 
-$I'm Rubel Mehmed$
+```shell
+console.log("Hi There! ") > README.md
+```
+
+### I'm Rubel Mehmed
+
 
 
 ----
