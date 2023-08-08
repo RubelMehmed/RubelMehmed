@@ -1,11 +1,13 @@
 
-### Hi There! I'm RubelMehmed
+### Hi There! 
+$I'm RubelMehmed$
 
 
 ----
 
 ⌨️ Frontend Dev 👨‍💻 | 👋 Bangladeshi 🇧🇩 | 🎓 JU Student 📚 | 💻 Code & Cricket 🏏 | 🌟 Let's Code and Play! 🌙
------
+
+----
 
 <a href="https://github.com/RubelMehmed">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&show_icons=true&theme=radical" />
