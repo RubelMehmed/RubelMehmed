@@ -1,6 +1,6 @@
 
 ### Hi There! 
-$ I'm Rubel Mehmed $
+$I'm Rubel Mehmed$
 
 
 ----
