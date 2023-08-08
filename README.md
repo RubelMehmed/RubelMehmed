@@ -25,17 +25,6 @@ console.log("Hi There! ") > README.md
   <img src="https://komarev.com/ghpvc/?username=RubelMehmed&color=blueviolet" />
 </a>
 
-----
-
-
-
-<a href="https://github.com/RubelMehmed">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&layout=compact&show_icons=true&theme=radical&hide=python" />
-</a>
-
-
-
-
 
 ----
 
