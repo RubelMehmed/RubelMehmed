@@ -1,17 +1,9 @@
-```javascript
-console.log("HI There!"); 
-const User = "RubelMehmed";
-
-```
-----
 
 ```shell
 console.log("Hi There! ") > README.md
 ```
 
-```shell
-const User = RubelMehmed > README.md
-```
+
 ### I'm Rubel Mehmed
 
 
