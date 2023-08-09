@@ -25,6 +25,9 @@ console.log("Hi There! ") > README.md
   <img src="https://komarev.com/ghpvc/?username=RubelMehmed&color=blueviolet" />
 </a>
 
+----
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RubelMehmed&layout=compact$theme=radical)](https://github.com/RubelMehmed/github-readme-stats)
 
 ----
 
