@@ -27,10 +27,6 @@ console.log("Hi There! ") > README.md
 
 ----
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RubelMehmed&layout=compact$theme=radical)](https://github.com/RubelMehmed/github-readme-stats)
-
-----
-
 👨‍💻 Frontend Dev | 🚀 React, Next.js, Vite | UI Lover 🎨 | 🌈 Tailwind, Sass, Material UI | 🌐 Cloud & DevOps Explorer | ⚙️ Web Assembly Learner | Design Patterns Admirer 🛠️ | 🌟 Let's craft web magic together! 🎯
 
 ----
