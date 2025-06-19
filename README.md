@@ -40,8 +40,8 @@ console.log("Hi There! ") > README.md
   Here are some technologies I use at work:
 </h2>
 <p align="center">
- <code><img height="55" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"></code>
 </p>
+ <code><img height="55" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"></code>
 <code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
 <code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
 <code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
@@ -52,10 +52,11 @@ console.log("Hi There! ") > README.md
 <br/>
 
 <p align="center">
-<code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/aws.png"></code> &nbsp;&nbsp;
+
 <code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
 <code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
-<code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
+<code><img height="55" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"></code> &nbsp;&nbsp;
+<code><img height="55" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"></code> &nbsp;&nbsp;
 <code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
 <code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
 </p>
