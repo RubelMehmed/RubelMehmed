@@ -13,8 +13,9 @@ console.log("Hi There! ") > README.md
  🎓 BSc in Geography and Envrionment | 📚 Jahangrinagar University | 👋 Bangladesh 🇧🇩
 
 ----
+
 🌐 GIS Analyst ⌨️ Data Analyst 💻 Web Developer 🏏 Code & Cricket! 🌙
-----
+
 ----
 
 <a href="https://github.com/RubelMehmed">
