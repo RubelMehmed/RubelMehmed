@@ -40,10 +40,12 @@ console.log("Hi There! ") > README.md
   Here are some technologies I use at work:
 </h2>
 <p align="center">
+ <code><img height="55" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"></code>
+</p>
 <code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
 <code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
 <code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-<code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
+<code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/.png"></code> &nbsp;&nbsp;
 <code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/vue.png"></code>
 </p>
 
