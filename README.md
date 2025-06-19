@@ -9,14 +9,13 @@ console.log("Hi There! ") > README.md
 
 
 ----
+
  🎓 BSc in Geography and Envrionment | 📚 Jahangrinagar University | 👋 Bangladesh 🇧🇩
-----
-----
-
-🌐 GIS Analyst | ⌨️ Data Analyst | 💻 Web Developer | 🏏 Code & Cricket! 🌙
 
 ----
-
+🌐 GIS Analyst ⌨️ Data Analyst 💻 Web Developer 🏏 Code & Cricket! 🌙
+----
+----
 
 <a href="https://github.com/RubelMehmed">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&layout=pie&show_icons=true&theme=radical" />
@@ -31,7 +30,7 @@ console.log("Hi There! ") > README.md
 
 ----
 
-⚙️ ArcGIS Pro, Google Earth Pro, GEE | 🌐 Python, R, JavaScript, C | 🛠️ React.js, Next.js, Node.js | 🌈 Tailwind, CSS3, Material UI 🎯
+⚙️ ArcGIS Pro, Google Earth Pro, GEE 🌐 Python, R, JavaScript, C 🛠️ React.js, Next.js, Node.js 🌈 Tailwind, CSS3, Material UI 🎯
 
 ----
 
@@ -52,7 +51,7 @@ console.log("Hi There! ") > README.md
 
 <p align="center">
 <code><img height="55" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"></code>
-<code><img height="55" src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000"></code>;
+<code><img height="55" src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000"></code>
 <code><img height="55" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"></code>
 <code><img height="55" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"></code> 
 <code><img height="55" src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000"></code> 
