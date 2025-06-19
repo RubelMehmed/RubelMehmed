@@ -44,7 +44,7 @@ console.log("Hi There! ") > README.md
  <code><img height="55" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"></code>
  <code><img height="55" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"></code>
 <code><img height="55" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"></code>
-<code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> 
+<code><img height="55" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000"></code> 
 <code><img height="55" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000"></code>
 </p>
 
