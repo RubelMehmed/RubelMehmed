@@ -4,15 +4,19 @@ console.log("Hi There! ") > README.md
 ```
 
 
-### I'm Rubel Mehmed
+### I'm Rubel Fakir
 
 
 
 ----
+ | 🎓 BSc in Geography and Envrionment | 📚 Jahangrinagar University | 👋 Bangladesh 🇧🇩 |
+----
+----
 
-⌨️ Frontend Dev 👨‍💻 | 👋 Bangladeshi 🇧🇩 | 🎓 JU Student 📚 | 💻 Code & Cricket 🏏 | 🌟 Let's Code and Play! 🌙
+| 🌐 GIS Analyst | ⌨️ Data Analyst | 💻 Web Developer | 🏏 Code & Cricket! 🌙
 
 ----
+
 
 <a href="https://github.com/RubelMehmed">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelMehmed&layout=pie&show_icons=true&theme=radical" />
@@ -27,7 +31,7 @@ console.log("Hi There! ") > README.md
 
 ----
 
-👨‍💻 Frontend Dev | 🚀 React, Next.js, Vite | UI Lover 🎨 | 🌈 Tailwind, Sass, Material UI | 🌐 Cloud & DevOps Explorer | ⚙️ Web Assembly Learner | Design Patterns Admirer 🛠️ | 🌟 Let's craft web magic together! 🎯
+⚙️ ArcGIS Pro, Google Earth Pro, GEE | 🌐 Python, R, JavaScript, C | 👨‍💻 React.js, Next.js, Node.js | 🌈 Tailwind, CSS3, Material UI | ⚙️  🛠️ | 🎯
 
 ----
 
