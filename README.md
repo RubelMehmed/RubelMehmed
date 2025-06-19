@@ -40,27 +40,23 @@ console.log("Hi There! ") > README.md
   Here are some technologies I use at work:
 </h2>
 <p align="center">
-</p>
- <code><img height="55" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"></code>;
- <code><img height="55" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"></code>;
-<code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
-<code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
-<code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
+ <code><img height="55" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"></code>
+ <code><img height="55" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"></code>
+<code><img height="55" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"></code>
+<code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> 
+<code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> 
 <code><img height="55" src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000"></code>
 </p>
 
 <br/>
 
 <p align="center">
-
-<code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
-<code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
+<code><img height="55" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"></code>
 <code><img height="55" src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000"></code>;
-
-<code><img height="55" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"></code> &nbsp;&nbsp;
-<code><img height="55" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"></code> &nbsp;&nbsp;
-<code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
-<code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
+<code><img height="55" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"></code>
+<code><img height="55" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"></code> 
+<code><img height="55" src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000"></code> 
+<code><img height="55" src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000"></code>
 </p>
 
 <br/>
