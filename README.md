@@ -9,11 +9,11 @@ console.log("Hi There! ") > README.md
 
 
 ----
- | 🎓 BSc in Geography and Envrionment | 📚 Jahangrinagar University | 👋 Bangladesh 🇧🇩 |
+ 🎓 BSc in Geography and Envrionment | 📚 Jahangrinagar University | 👋 Bangladesh 🇧🇩
 ----
 ----
 
-| 🌐 GIS Analyst | ⌨️ Data Analyst | 💻 Web Developer | 🏏 Code & Cricket! 🌙
+🌐 GIS Analyst | ⌨️ Data Analyst | 💻 Web Developer | 🏏 Code & Cricket! 🌙
 
 ----
 
@@ -31,7 +31,7 @@ console.log("Hi There! ") > README.md
 
 ----
 
-⚙️ ArcGIS Pro, Google Earth Pro, GEE | 🌐 Python, R, JavaScript, C | 👨‍💻 React.js, Next.js, Node.js | 🌈 Tailwind, CSS3, Material UI | ⚙️  🛠️ | 🎯
+⚙️ ArcGIS Pro, Google Earth Pro, GEE | 🌐 Python, R, JavaScript, C | 🛠️ React.js, Next.js, Node.js | 🌈 Tailwind, CSS3, Material UI 🎯
 
 ----
 
@@ -45,7 +45,7 @@ console.log("Hi There! ") > README.md
 <code><img height="55" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"></code>
 <code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> 
 <code><img height="55" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> 
-<code><img height="55" src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000"></code>
+<code><img height="55" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000"></code>
 </p>
 
 <br/>
